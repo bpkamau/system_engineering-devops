@@ -1,1 +1,1 @@
-Script printing absolute path
+Script listing files
